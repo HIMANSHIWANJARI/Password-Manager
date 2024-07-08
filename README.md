@@ -6,7 +6,8 @@ Created a GUI using Tkinter, this application allows you to generate secure pass
 
 **Here are some images demonstrating how the application works:**
 
-![Screenshot (127)](https://github.com/HIMANSHIWANJARI/Password-Manager/assets/126982834/d4a82666-9db2-4e31-a925-e105eca3d0b3)
+![Manager](https://github.com/HIMANSHIWANJARI/Password-Manager/assets/126982834/ffeefb05-ca2e-4303-bfc3-38f35614a605)
+
 
 ![Screenshot (128)](https://github.com/HIMANSHIWANJARI/Password-Manager/assets/126982834/d3d55f05-b46a-48b1-bd11-e72446e14d08)
 
